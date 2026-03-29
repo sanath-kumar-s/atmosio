@@ -1,10 +1,22 @@
-# Atmosio
-
-Atmosio is a modern weather forecast web application that provides real-time weather information through a clean, dark-themed user interface. The app allows users to search for locations and view accurate, up-to-date weather data in a visually simple and readable dashboard.
+<h1 align="center">
+    <img src="assets/images/icon.png" width="28"> atmosio
+</h1>
 
 <p align="center">
-  <img src="assets\images\Doc\Screenshot1.png" width="400" alt="preview">
+    <i>Weather, as it happens.</i>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue" />
+  <img src="https://img.shields.io/badge/API-OpenWeather-orange" />
+  <img src="https://img.shields.io/badge/Maps-Leaflet.js-green" />
+  <img src="https://img.shields.io/badge/Platform-Web-lightgrey" />
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen" />
+</p>
+
+![Application Screenshot](assets/images/Picture1.png)
+
+Atmosio is a modern weather forecast web application that provides real-time weather information through a clean, dark-themed user interface. The app allows users to search for locations and view accurate, up-to-date weather data in a visually simple and readable dashboard.
 
 ## Features
 
@@ -76,6 +88,7 @@ A clean, dark-themed dashboard inspired by modern weather apps, focused on clari
 </p>
 
 ## Deployed Website at
+
 - https://atmosio.web.app/#
 
 ## Credits
