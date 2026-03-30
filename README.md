@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue" />
   <img src="https://img.shields.io/badge/API-OpenWeather-orange" />
-  <img src="https://img.shields.io/badge/Maps-Leaflet.js-green" />
+  <img src="https://img.shields.io/badge/Maps-Leaflet.js-green" /><br>
   <img src="https://img.shields.io/badge/Platform-Web-lightgrey" />
   <img src="https://img.shields.io/badge/License-MIT-brightgreen" />
 </p>
