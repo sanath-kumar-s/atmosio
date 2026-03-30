@@ -18,7 +18,7 @@
 
 Atmosio is a modern weather forecast web application that provides real-time weather information through a clean, dark-themed user interface. The app allows users to search for locations and view accurate, up-to-date weather data in a visually simple and readable dashboard.
 
-## Features
+## ✨ Features
 
 - Real-time weather information
 - City-based weather search
@@ -30,7 +30,7 @@ Atmosio is a modern weather forecast web application that provides real-time wea
 - Multi-day weather forecast
 - Responsive and modern UI design
 
-## Tech Used
+## 🛠️ Tech Used
 
 - HTML
 - CSS
